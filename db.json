@@ -2,9 +2,6 @@
     "profile": {
       "value": "Profile 2"
     },
-    "categories": {
-        "value": "{'cat1': 'cat1val'}"
-    },
     "categories2": {
         "value": "{'cat1': 'cat1val'}"
     }
