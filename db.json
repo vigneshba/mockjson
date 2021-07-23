@@ -1,3 +1,5 @@
 {
-    "value": "{'category1':'value'}"
+    "categories": {
+        "unprocessed": "{'category1':'value'}"
+    }
 }
