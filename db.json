@@ -1,5 +1,8 @@
 {
     "profile": {
       "value": "Profile 1"
+    },
+    "categories": {
+        "value": "testvalue"
     }
-  }
+}
