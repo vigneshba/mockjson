@@ -30,5 +30,8 @@
     ],
     "profile": {
       "name": "Profile 1"
+    },
+    "categories": {
+        "value": "value1"
     }
   }
