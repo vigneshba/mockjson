@@ -1,8 +1,8 @@
 {
     "profile": {
-      "value": "Profile 1"
+      "value": "Profile 2"
     },
     "categories": {
-        "value": "testvalue"
+        "value": "{'cat1': 'cat1val'}"
     }
 }
