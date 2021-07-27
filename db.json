@@ -1,8 +1,11 @@
 {
-    "profile": {
-      "value": "Profile 2"
-    },
-    "categories2": {
-        "value": "{'cat1': 'cat1val'}"
+    "dailyTransactions": {
+        "monday": "[{\"category\":\"restaurant\",\"vendor\":\"mirazur\"},{\"category\":\"subscription\",\"vendor\":\"netflix\"},{\"category\":\"restaurant\",\"vendor\":\"sabaci\"},{\"category\":\"subscription\",\"vendor\":\"prime\"},{\"category\":\"bills\",\"vendor\":\"rogers\"}]",
+        "tuesday": "[{\"category\":\" restaurant\",\"vendor\":\"mirazur \"},{\"category\":\"subscription\",\"vendor\":\"netflix\"},{\"category\":\"restaurant \",\"vendor\":\"sabaci\"},{\"category\":\"Subscription\",\"vendor\":\"prime\"},{\"category\":\"bills\",\"vendor\":\"rogers\"},{\"category\":\"restaurant\",\"vendor\":\"mirazur\"}]",
+        "wednesday": "[{\"category\":\"restaurant\",Mirazur \"}]",
+        "thursday": "[]",
+        "friday": "[{}]",
+        "saturday": "[]",
+        "sunday": "[]"
     }
 }
