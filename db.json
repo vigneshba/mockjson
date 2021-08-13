@@ -1,9 +1,9 @@
 {
     "dailyTransactions": {
         "monday": "[{\"category\":\"restaurant\",\"vendor\":\"mirazur\"},{\"category\":\"subscription\",\"vendor\":\"netflix\"},{\"category\":\"restaurant\",\"vendor\":\"sabaci\"},{\"category\":\"subscription\",\"vendor\":\"prime\"},{\"category\":\"bills\",\"vendor\":\"rogers\"}]",
-        "tuesday": "[{\"category\":\" restaurant\",\"vendor\":\"mirazur \"},{\"category\":\"subscription\",\"vendor\":\"netflix\"},{\"category\":\"restaurant \",\"vendor\":\"sabaci\"},{\"category\":\"Subscription\",\"vendor\":\"prime\"},{\"category\":\"bills\",\"vendor\":\"rogers\"},{\"category\":\"restaurant\",\"vendor\":\"mirazur\"}]",
-        "wednesday": "[{\"category\":\"restaurant\",Mirazur \"}]",
-        "thursday": "[]",
+        "tuesday": "[{\"category\":\"restaurant\",\"vendor\":\"mirazur\"},{\"category\":\"subscription\",\"vendor\":\"netflix\"},{\"category\":\"restaurant\",\"vendor\":\"sabaci\"},{\"category\":\"subscription\",\"vendor\":\"prime\"},{\"category\":\"subscription\",\"vendor\":\"prime\"},{\"category\":\"bills\",\"vendor\":\"rogers\"},{\"category\":\"restaurant\",\"vendor\":\"mirazur\"}]",
+        "wednesday": "[{\"category\":\" restaurant\",\"vendor\":\"mirazur \"},{\"category\":\"subscription\",\"vendor\":\"netflix\"},{\"category\":\"restaurant \",\"vendor\":\"sabaci\"},{\"category\":\"Subscription\",\"vendor\":\" prime\"},{\"category\":\"bills\",\"vendor\":\"rogers\"},{\"category\":\"restaurant\",\"vendor\":\"Mirazur\"},{\"category\":\"subscription\",\"vendor\":\"Prime \"}]",
+        "thursday": "[{\"category\":\"restaurant\",Mirazur \"}]",
         "friday": "[{}]",
         "saturday": "[]",
         "sunday": "[]"
